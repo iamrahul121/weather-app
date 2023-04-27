@@ -1,15 +1,15 @@
-import React from 'react'
-import { useState, useEffect } from 'react'
-import WindImg from './Img/wind.png'
-import PressureImg from './Img/pressure.png'
-import SunsetImg from './Img/sunset.png'
-import HumidityImg from './Img/humidity.png'
-import Haze from './Img/haze.png'
-import Cloudy from './Img/cloudy.png'
-import Sunny from './Img/sunny.png'
-import Rain from './Img/rain.png'
-import Clear from './Img/clear.png'
-import Faviconn from './Img/faviconn.png'
+import React from 'react';
+import { useState, useEffect } from 'react';
+import WindImg from './Img/wind.png';
+import PressureImg from './Img/pressure.png';
+import SunsetImg from './Img/sunset.png';
+import HumidityImg from './Img/humidity.png';
+import Haze from './Img/haze.png';
+import Cloudy from './Img/cloudy.png';
+import Sunny from './Img/sunny.png';
+import Rain from './Img/rain.png';
+import Clear from './Img/clear.png';
+import Faviconn from './Img/faviconn.png';
 
 const Home = ({data}) => {
 
